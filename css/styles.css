@@ -30,9 +30,16 @@ nav a:hover {
   color: #888;
   line-height: 2em;
 }
+
+.menu-toggle {
+  display: flex;
+}
+/*
 .menu:hover+nav, nav:hover {
   display: flex;  
 }
+*/
+
 
 /* TABLET STYLES */
 
